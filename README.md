@@ -1,11 +1,8 @@
- ### 👋 Olá! Eu sou o Lucas Guerra
+ ## 👋 Olá! Eu sou o Lucas Guerra
 
+- 🌱 Atualmente aprendendo linguagens no geral, principalmente Java e Python
+- 💞️ Estudante de ADS na FIAP em busca de evolução e conhecimento
 
-- 👀 I’m interested in video games and coding in general
-- 🌱 I’m currently learning multiple coding languages, mainly Java and Python
-- 💞️ I’m looking to collaborate and learn new things about coding languages
-- 📫 Busniess e-mail lucasgasardo@gmail.com
- 
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGuerraS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
