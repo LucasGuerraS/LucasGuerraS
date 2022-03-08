@@ -4,7 +4,7 @@
 - 👀 I’m interested in video games and coding in general
 - 🌱 I’m currently learning multiple coding languages, mainly Java and Python
 - 💞️ I’m looking to collaborate and learn new things about coding languages
-- 📫 Busniess E-mail lucasgasardo@gmail.com
+- 📫 Busniess e-mail lucasgasardo@gmail.com
  
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
