@@ -1,4 +1,4 @@
- ## 👋 Olá! Eu sou o Lucas Guerra
+ ## 👋 Oi! Eu sou o Lucas Guerra
 
 - 🌱 Atualmente aprendendo linguagens no geral, principalmente Java e Python
 - 💞️ Estudante de ADS na FIAP em busca de evolução e conhecimento
