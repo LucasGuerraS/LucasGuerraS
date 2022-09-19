@@ -1,6 +1,6 @@
  ## 👋 Oi! Eu sou o Lucas Guerra
 
-- 🌱 Atualmente aprendendo linguagens no geral, principalmente Java e Python
+- 🌱 Atualmente tendo uma imersāo profunda na parte de WebXR e NodeJs 
 - 💞️ Estudante de ADS na FIAP em busca de evolução e conhecimento
 
   <div align="center">
