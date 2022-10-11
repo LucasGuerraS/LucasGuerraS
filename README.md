@@ -1,6 +1,6 @@
  ## 👋 Oi! Eu sou o Lucas Guerra
 
-- 🌱 Atualmente tendo uma imersāo profunda na parte de WebXR e NodeJs 
+- 🌱 Atualmente tendo uma imersāo profunda na parte de WebXR, NodeJs e Web 3.0
 - 💞️ Estudante de ADS na FIAP em busca de evolução e conhecimento
 
   <div align="center">
