@@ -9,6 +9,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuerraS&layout=compact&langs_count=10&theme=dark">
 </div>
  
+ ##
+ 
+ ### Familiaridade com:
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Three.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
   <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
