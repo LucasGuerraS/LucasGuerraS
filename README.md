@@ -32,7 +32,8 @@
    <img align="center" alt="PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="mocha.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://instagram.fcgh22-1.fna.fbcdn.net/v/t51.2885-15/275438254_331624045570557_3915468862011328379_n.jpg?stp=dst-jpg_e15_s240x240&_nc_ht=instagram.fcgh22-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Cni6Mq5s2ZIAX_7AYul&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc4OTYwOTg3NDgwNjEyNzE5Nw%3D%3D.2-ccb7-4&oh=00_AT9DvlQFlt1G2Z-pcGBLsUpk5D-jePc-1mWYuQ2MhEuC-A&oe=622E5A59&_nc_sid=fa978c"
+  <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+   <img align="center" alt="Android Studio" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </div>
   
   ##
