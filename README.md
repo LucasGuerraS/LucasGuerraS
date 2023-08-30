@@ -2,7 +2,7 @@
  
 - 🌱 Atualmente tendo uma imersāo profunda na parte Mobile e Backend 
 - 💞️ Estudante de ADS na FIAP em busca de evolução e conhecimento
-- 📍 Desenvolvedor Mobile e Inovações na AVA desde Novembro de 2022
+- 📍 Desenvolvedor Mobile e de Inovações na AVA desde Novembro de 2022
 
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
