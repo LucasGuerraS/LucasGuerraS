@@ -1,7 +1,8 @@
  ## 👋 Oi! Eu sou o Lucas Guerra
-
-- 🌱 Atualmente tendo uma imersāo profunda na parte de WebXR, NodeJs e Web 3.0
+ 
+- 🌱 Atualmente tendo uma imersāo profunda na parte Mobile e Backend 
 - 💞️ Estudante de ADS na FIAP em busca de evolução e conhecimento
+- 📍 Desenvolvedor Mobile e Inovações na AVA desde Novembro de 2022
 
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
