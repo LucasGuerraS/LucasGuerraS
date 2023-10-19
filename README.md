@@ -2,7 +2,8 @@
  
 - 🌱 Atualmente tendo uma imersāo profunda na em Cloud, Backend e Frontend
 - 💞️ Estudante de ADS na FIAP em busca de evolução e conhecimento
-- 📍 Desenvolvedor Fullstack na Power of Data 
+- 📍 Desenvolvedor Fullstack na Power of Data
+</br>
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGuerraS&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
