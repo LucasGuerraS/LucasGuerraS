@@ -2,6 +2,7 @@
  
 - 🌱 Atualmente tendo uma imersāo profunda na em Cloud, Backend e Frontend
 - 💞️ Formando de ADS na FIAP em 2023, buscando de evolução e conhecimento
+- 📚 Cursando Engenharia de Software MBA na USP/Esalq
 - 📍 Desenvolvedor Fullstack na Power of Data
 </br>
   <div align="center">
