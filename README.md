@@ -9,7 +9,7 @@
   <a href="https://github.com/LucasGuerraS">
  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGuerraS&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
   </br> -->
-  <img height="200em" src="https://github-readme-stats-pi-eight-66.vercel.app/api/top-langs/?username=LucasGuerraS&layout=compact&langs_count=8&theme=dark&exclude_repo=github-readme-stats,my-configs">
+  <img height="200em" src="https://github-readme-stats-pi-eight-66.vercel.app/api/top-langs/?username=LucasGuerraS&layout=compact&langs_count=8&theme=dark&exclude_repo=github-readme-stats,my-configs&hide=html,css,yaml,hcl">
 </div>
  
  ##
