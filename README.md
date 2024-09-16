@@ -1,9 +1,9 @@
- ## 👋 Oi! Eu sou o Lucas Guerra
+ ## 👋 Hi! I'm Lucas Guerra, a Software Engineer.
  
-- 🌱 Atualmente tendo uma imersāo profunda na em Cloud, Backend e Frontend
-- 💞️ Formando de ADS na FIAP em 2023, buscando de evolução e conhecimento
-- 📚 Cursando Engenharia de Software MBA na USP/Esalq
-- 📍 Desenvolvedor Fullstack na Power of Data
+- 🌱 Currently looking at topics related to Unix, DSA and fundamentals of C
+- 💞️ ADS 2024 graduate at FIAP
+- 📚 Studying Sofware Engineering at USP, MBA;
+- 📍 Fullstack Sofware Developer at PowerOfData;
 </br>
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
@@ -14,7 +14,7 @@
  
  ##
  
- ### Familiaridade com:
+ ### Familiar with the following stacks:
  
   <div style="display: inline_block"><br>
    <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
