@@ -1,7 +1,7 @@
  ## 👋 Hi! I'm Lucas Guerra, a Software Engineer.
  
-- 🌱 Currently looking at topics related to Unix, DSA and fundamentals of C
-- 💞️ ADS 2024 graduate at FIAP
+- 🌱 Currently looking at topics related to Unix, DSA and DevOps practices;
+- 💞️ ADS 2024 graduate at FIAP;
 - 📚 Studying Sofware Engineering at USP, MBA;
 - 📍 Fullstack Developer and DevOps at PowerOfData;
 </br>
