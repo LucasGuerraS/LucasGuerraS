@@ -3,7 +3,7 @@
 - 🌱 Currently looking at topics related to Unix, DSA and fundamentals of C
 - 💞️ ADS 2024 graduate at FIAP
 - 📚 Studying Sofware Engineering at USP, MBA;
-- 📍 Fullstack Sofware Developer at PowerOfData;
+- 📍 Fullstack Developer and DevOps at PowerOfData;
 </br>
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
