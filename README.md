@@ -3,7 +3,7 @@
 - 🌱 Currently looking at topics related to Linux, DSA and DevOps;
 - 💞️ ADS 2024 graduate at FIAP;
 - 📚 Sofware Engineering at USP, MBA;
-- 📍 Software Developer and DevOps at PowerOfData;
+- 📍 Site Reliability Engineer at WSO2;
 </br>
   <div align="center">
   <a href="https://github.com/LucasGuerraS">
