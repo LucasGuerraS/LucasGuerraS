@@ -6,7 +6,7 @@
 - 📍 Site Reliability Engineer at WSO2;
 </br>
   <div align="center">
-  <a href="https://github.com/LucasGuerraS">
+  <a href="https://github.com/guerrasz">
  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGuerraS&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
   </br> -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuerraS&layout=compact&langs_count=8&theme=dark&exclude_repo=github-readme-stats,my-dotfiles&hide=html,css,javascript,solidity,kotlin,ruby,makefile,swift,dart&custom_title=My%20Favorite%20Languages!&size_weight=0.5&count_weight=0.5">
