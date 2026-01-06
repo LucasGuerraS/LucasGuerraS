@@ -14,7 +14,7 @@
  
  ##
  
- ### Familiar with the following technologies:
+ ### My tech stack:
  
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
